@@ -1,0 +1,33 @@
+.anime-details {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .details-container {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+  }
+  
+  .details-image {
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+  }
+  
+  .details-info {
+    flex: 1;
+  }
+  
+  .details-description {
+    color: #555555;
+    line-height: 1.6;
+  }
+  
+  .placeholder-message {
+    text-align: center;
+    color: #888888;
+  }
+  
